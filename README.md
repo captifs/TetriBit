@@ -1,3 +1,5 @@
+## Tetris be biți 
+
 I) Functia `main()`
 
 In functia `main()` citim de la `Standard Input` mapa, nr. de miscari(piese) si insusi piesele. Pentru fiecare piesa se introduc 8 miscari pe orizontala(pentru fiecare linie). Exemplu de input:
