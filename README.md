@@ -1,4 +1,4 @@
-## Tetris be biți 
+## Tetris pe biți 
 
 I) Functia `main()`
 
